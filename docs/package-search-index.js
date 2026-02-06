@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"pacman"},{"l":"pacman.constant"},{"l":"pacman.controller"},{"l":"pacman.model"},{"l":"pacman.util"}]
